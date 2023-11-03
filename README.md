@@ -5,6 +5,11 @@
 
 - 🌱 I’m currently learning **JavaScript libraries**
 
+- 🌱 My 2024 goals are:
+  - get an **internship**
+  - build a **full stack project**
+  - learn machine learning with **python**
+
 - ⚡ Fun fact **I love gaming, hiking, and sleeping**
 
 ## You can connect with me on:
