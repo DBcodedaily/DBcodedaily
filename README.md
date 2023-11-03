@@ -1,18 +1,17 @@
-## Hi there 👋
-My name is Des Balliette and I am a currently pursuing an **AS in Software Development** as well as **certifications** for the web trifecta: CSS, HTML, and JavaScript. 
+# Hello 👋, I'm Des
+## A student with a passion for anything tech
 
-## Current Projects/Goals
-- 🔭 I’m currently working on a portfolio for a tattoo artist.
-- 🌱 I’m currently learning JavaScript, my goal is to use it with more understanding by the end of 2023!
-- 🌱 I want to learn JavaScript libraries, like React.js.
-- 🌱 I want to learn the popular CSS framework, Bootstrap.
+- 🔭 I’m currently working on **CSS animations**
 
-## Connect with me
-- 📫 You can connect with me on:
-- [Twitter](https://x.com/dbcodingdaily?s=21&t=63arKq6BFyzNXpjKJcaHDg)
-- [LinkedIn](https://www.linkedin.com/in/desiree-balliette-5585a8243?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- [TikTok](https://www.tiktok.com/@dbcodez?_t=8gHyS3ULI0B&_r=1)
+- 🌱 I’m currently learning **JavaScript libraries**
 
+- ⚡ Fun fact **I love gaming, hiking, and sleeping**
 
-
-
+## You can connect with me on:
+[Twitter](https://twitter.com/DBcodingdaily)  
+  
+[TikTok](https://www.tiktok.com/@dbcodez?_t=8h3mgsthLbC&_r=1)  
+  
+[LinkedIn](http://linkedin.com/in/desiree-balliette-5585a8243)  
+***
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbcodedaily&show_icons=true&locale=en&layout=compact" alt="dbcodedaily" /></p>
