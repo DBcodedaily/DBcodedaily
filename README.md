@@ -1,16 +1,16 @@
 # Hello 👋, I'm Des
 ## A student with a passion for anything tech
 
-- 🔭 I’m currently working on **CSS animations**
+- 🔭 I’m currently working on a **Java tutoring project**
 
-- 🌱 I’m currently learning **JavaScript libraries**
+- 🌱 I’m currently learning **JavaScript**
 
-- 🌱 My 2024 goals are:
-  - get an **internship**
+- 🔥 My 2024 goals are:
   - build a **full stack project**
   - practice machine learning with **python**
+  - build my online presence 
 
-- ⚡ Fun fact **I love gaming, hiking, and sleeping**
+- ⚡ Fun facts **I love gaming, hiking, and sleeping**
 
 ## You can connect with me on:
 [![image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DBcodingdaily)
