@@ -1,5 +1,5 @@
 # Hello 👋, I'm Des
-## A student with a passion for anything tech
+![5DA01892-7D29-495E-A9FA-81D1301E7E78_4_5005_c](https://github.com/DBcodedaily/DBcodedaily/assets/118864557/d28d8064-cabc-4280-8681-8f2eef7a00a6)
 
 - 🔭 I’m currently working on a **Java tutoring project**
 
@@ -10,7 +10,7 @@
   - practice machine learning with **python**
   - build my online presence 
 
-- ⚡ Fun facts **I love gaming, hiking, and sleeping**
+- ⚡ Fun facts **I love gaming, hiking, and making pixel art**
 
 ## You can connect with me on:
 [![image](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/DBcodingdaily)
